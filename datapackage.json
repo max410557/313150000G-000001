@@ -1,0 +1,15 @@
+{
+  "name":"313150000G-000001",
+  "title":"ISO認可登錄廠商查詢",
+  "description":"提供經濟部標準檢驗局認可ISO登錄廠商資料",
+  "license":"政府資料開放授權條款-第1版",
+  "homepage":null,
+  "sources":{
+    "name":"經濟部標準檢驗局"
+  },
+  "author":{
+    "name":"蕭正元(經濟部標準檢驗局) 先生",
+    "email":"snowfox.hsiao@bsmi.gov.tw"
+  },
+  "keywords":"ISO登錄廠商"
+}
